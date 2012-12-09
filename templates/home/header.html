@@ -1,0 +1,20 @@
+<h1>
+	<a href="#tabOption" id="ideaTab" data-rel="popup">
+		<label id="selection"><%= postType %> - <%= filterType %> </label>
+		<img src="assets/images/down.png" />
+	</a>
+</h1>
+<div data-role="popup" id="tabOption" data-overlay-theme="none" data-theme="c">
+	<fieldset data-role="controlgroup" data-mini="true">
+		<input type="radio" name="radio-mini" id="new" checked="checked" />
+		<label for="new"><%filterNew%></label>
+		<input type="radio" name="radio-mini" id="trend" />
+		<label for="trend"><%filterTrend%></label>
+		<input type="radio" name="radio-mini" id="hot" />
+		<label for="hot"><%hotTrend%></label>
+		<input type="radio" name="radio-mini" id="nearby" />
+		<label for="nearby"><%fiterNearby%></label>
+		<input type="radio" name="radio-mini" id="question" />
+		<label for="question"><%fiterQuestion%></label>
+	</fieldset>
+</div>

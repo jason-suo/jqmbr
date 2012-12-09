@@ -1,0 +1,131 @@
+﻿.ideaList {
+    margin: 0 auto;
+    width: 99%;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    background: #FFF;
+    margin-bottom: 10px;
+}
+.ideaList .headPhoto {
+    width: 100%;
+}
+.ideaList .about {
+    display: inline-block;
+    vertical-align: top;
+    margin: 2% 1%;
+    width: 16%;
+    border-radius: 4px;
+}
+.ideaList .about .user {
+    background-color: #E3E3E3;
+    padding: 4%;
+    border-radius: 4px;
+}
+.ideaList .about .user .userName {
+    text-align: center;
+}
+.ideaList .about .user .userInfo {
+    padding: 5%;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    text-shadow: none;
+}
+.ideaList .about .createLocation {
+    margin-top: .8em;
+    background-color: #E3E3E3;
+    padding: 4%;
+    border-radius: 4px;
+}
+.ideaList .about .createLocation .locationLabel {
+    display: block;
+    padding: .2em;
+    text-align: center;
+    font-size: 14px;
+}
+.ideaList .contentPictureWithoutUser {
+    margin: 1% 1% 0!important;
+    width: 98%!important;
+    border-radius: 5px;
+}
+.ideaList .contentPicture {
+    display: inline-block;
+    margin: 2% 0px 0px;
+    width: 81%;
+    border-radius: 5px;
+}
+.ideaList .title {
+    width: 94%;
+    display: inline-block;
+    margin: 2% 1% 1%;
+    word-wrap: break-word;
+    background-color: #E3E3E3;
+    border-radius: 5px;
+    padding: 8px 2%;
+    text-shadow: none;
+}
+.ideaList .titleWithoutUser {
+    width: 94%!important;
+}
+.contentPictureWithoutUser {
+    width: 100%!important;
+}
+.ideaList .info {
+    text-align: right;
+    margin: .2em 0 .5em;
+}
+.ideaList .info .infoLabel {
+    font-weight: normal;
+    font-size: 12px;
+    margin: .3em;
+    padding: .3em;
+    border-radius: 5px;
+    background: #E3E3E3;
+}
+/*.ideaList .option {
+ border: 1px solid #CCC;
+ border-width: 1px 0 0;
+ width: 100%;
+ height: 45px;
+ }
+ .option .collect {
+ width: 30%;
+ border-radius: 0 0 0 5px;
+ }
+ .option .support {
+ width: 40%;
+ border: 1px solid #CCC;
+ border-width: 0 0 0 1px;
+ }
+ .option .comment {
+ width: 30%;
+ border-radius: 0 0 5px 0;
+ border: 1px solid #CCC;
+ border-width: 0 0 0 1px;
+ }
+ .option  .num {
+ padding: 0 5px;
+ }
+ .option .tab {
+ background-image: -webkit-linear-gradient(white, #F1F1F1);
+ float: left;
+ display: inline-block;
+ padding: 13px 0px;
+ text-align: center;
+ margin-right: -1px;
+ }
+ .option .tab:hover {
+ background-image: -webkit-linear-gradient(#F6F6F6, #E0E0E0);
+ }
+ .option .tab:active {
+ background-image: -webkit-linear-gradient(#D0D0D0, #DFDFDF);
+ }
+ .option .tab:before {
+ clear: both;
+ }
+ .option .tab:after {
+ clear: both;
+ }*/
+#more {
+    margin: 0 15px 10px;
+}

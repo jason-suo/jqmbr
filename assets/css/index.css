@@ -1,0 +1,21 @@
+﻿.footerButton {
+  display: block;
+  height: 30px;
+  margin: 0 auto;
+}
+#ideaTab {
+  display: inline-block;
+  text-decoration: none;
+  text-align: left;
+  color: #000;
+}
+#ideaTab: active {
+    background-color: #777;
+}
+#tabOption {
+    float: left;
+    width: 100%;
+}
+#tabOption fieldset {
+    margin: 0;
+}
